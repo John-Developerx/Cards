@@ -1,8 +1,8 @@
 # Cards
 <h2> Inglês </h2>
-<p> Project made with the cell phone </p>
+<p> Project made with the cell phone. </p>
 <h2> Português </h2>
-<P> Projeto feito pelo celular </p>
+<P> Projeto feito com o celular. </p>
 
 # Project
 <p> https://john-developerx.github.io/Cards/ </p>
